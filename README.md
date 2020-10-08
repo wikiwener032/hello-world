@@ -1,5 +1,4 @@
-# hello-world
 
+#hello world
 
-Hello Gitub
-I will study python in here.
+打印指令测试
